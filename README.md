@@ -6,3 +6,4 @@ The aim of this project is to provide insights into the gold market in Tamil Nad
 
 ## Dataset:
 The dataset used in this project is sourced from Kaggle and includes the historical gold rates in Tamil Nadu from 2006 to 2020. 
+Dataset link : [https://www.kaggle.com/datasets/narendrageek/gold-rate-history-in-tamilnadu-india/data](url)
