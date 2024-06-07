@@ -17,28 +17,30 @@ Market Basket Analysis is a data mining technique used to discover patterns in l
 + Generating Association Rules
 + Analyzing Frequent Itemsets
 
-Recommendation Systems
-Collaborative Filtering
+## Recommendation Systems
+### Collaborative Filtering
 Collaborative Filtering is a recommendation method based on user-item interactions. It predicts user preferences for items by finding similarities between users or items.
 
-Key Steps:
-Data Preprocessing
-Building User-Item Interaction Matrix
-Implementing Collaborative Filtering Algorithm
-Evaluating the Model
-Content-Based Filtering
+#### Key Steps:
++ Data Preprocessing
++ Building User-Item Interaction Matrix
++ Implementing Collaborative Filtering Algorithm
++ Evaluating the Model
+
+### Content-Based Filtering
 Content-Based Filtering recommends items based on the attributes of items and user profiles. It uses the properties of items and the history of user interactions to suggest new items.
 
-Key Steps:
-Data Preprocessing
-Extracting Features
-Building and Evaluating the Recommendation Model
-Time Series Forecasting
-ARIMA Model
+#### Key Steps:
++ Data Preprocessing
++ Extracting Features
++ Building and Evaluating the Recommendation Model
+
+## Time Series Forecasting
+### ARIMA Model
 The ARIMA (AutoRegressive Integrated Moving Average) model is a popular statistical method used for time series forecasting. It captures the autocorrelations in the data.
 
-Key Steps:
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Building the ARIMA Model
-Forecasting Future Gold Rates
+### Key Steps:
++ Data Preprocessing
++ Exploratory Data Analysis (EDA)
++ Building the ARIMA Model
++ Forecasting Future Gold Rates
