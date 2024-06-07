@@ -5,5 +5,6 @@ Welcome to the Business Analytics on Gold repository. This project involves perf
 The aim of this project is to provide insights into the gold market in Tamil Nadu from 2006 to 2020. Through various data analysis techniques, we aim to uncover patterns and make predictions that can help stakeholders make informed decisions.
 
 ## Dataset:
-The dataset used in this project is sourced from Kaggle and includes the historical gold rates in Tamil Nadu from 2006 to 2020. 
+The dataset used in this project is sourced from Kaggle and includes the historical gold rates in Tamil Nadu from 2006 to 2020.
+<br />
 Dataset link : [https://www.kaggle.com/datasets/narendrageek/gold-rate-history-in-tamilnadu-india/data](url)
