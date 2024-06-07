@@ -39,7 +39,7 @@ Content-Based Filtering recommends items based on the attributes of items and us
 ### ARIMA Model
 The ARIMA (AutoRegressive Integrated Moving Average) model is a popular statistical method used for time series forecasting. It captures the autocorrelations in the data.
 
-### Key Steps:
+#### Key Steps:
 + Data Preprocessing
 + Exploratory Data Analysis (EDA)
 + Building the ARIMA Model
